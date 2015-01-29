@@ -1,0 +1,10 @@
+{
+    "repos": "https://github.com/balupton/jquery-history.git",
+    "version": "1.5.0",
+    "tag": "v1.5.0-final",
+    "name": "jquery-history",
+    "main": "jquery.history.js",
+    "dependencies": [
+        "jquery@>=1.4.1"
+    ]
+}
