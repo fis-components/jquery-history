@@ -1,4 +1,4 @@
-require('jquery');
+var jQuery = require('jquery');
 /**
  * @depends nothing
  * @name core.console
